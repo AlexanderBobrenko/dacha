@@ -1,0 +1,19 @@
+body{
+    background: #000;
+}
+div p{
+    background-image: url("p.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    -webkit-background-clip: text;
+    color: transparent;
+    line-height: 12px;
+    text-align: justify;
+    max-width: 1520px;
+
+}
+div{
+    margin-right: auto;
+    margin-left: auto;
+}
